@@ -22,7 +22,6 @@ The **"Implementation of ML Model for Image Classification"** is a powerful and 
 - Perfect for exploring deep learning concepts and evaluating model performance.  
 - Suitable for practical tasks requiring fast and accurate image classification.
 
----
 
 ### **Getting Started**  
 
@@ -69,7 +68,5 @@ Contributions are welcome! Fork the repository, report issues, or submit pull re
    - Display accuracy, precision, and recall to give users insights into model performance.  
 3. **Custom Dataset Integration:**  
    - Allow users to upload their datasets and retrain the CIFAR-10 model.  
-4. **Dark Mode UI:**  
-   - Enhance user experience with a visually appealing dark mode option.  
 
 This streamlined and enhanced version highlights the app’s capabilities, making it more engaging and professional.
