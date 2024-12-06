@@ -1,4 +1,4 @@
-# P1-Implementation-of-ML-model-fo-Image-classification-AICTE-Internship-2024-2025
+# P1-Implementation-of-ML-model-for-Image-classification-AICTE-Internship-2024-2025
 ### Streamlit App for Image Classification: MobileNetV2 and CIFAR-10 Integration  
 
 The **"Implementation of ML Model for Image Classification"** is a powerful and user-friendly Streamlit app that leverages two models—**MobileNetV2** and a custom **CIFAR-10 model**—for real-time image classification. Designed for both educational and practical use, it offers seamless navigation and immediate predictions with confidence scores.
