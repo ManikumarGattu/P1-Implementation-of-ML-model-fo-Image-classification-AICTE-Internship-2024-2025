@@ -49,7 +49,7 @@ The **"Implementation of ML Model for Image Classification"** is a powerful and 
    streamlit run app.py  
    ```  
 5. Open the app:  
-   - The app launches automatically in your default browser. If not, navigate to: `http://localhost:8501`.  
+   - The app launches automatically in your default browser. If not, navigate to: http://localhost:8501
 
 
 ### **Contributing**  
