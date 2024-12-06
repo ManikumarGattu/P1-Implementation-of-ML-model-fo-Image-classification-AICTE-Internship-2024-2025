@@ -3,7 +3,6 @@
 
 The **"Implementation of ML Model for Image Classification"** is a powerful and user-friendly Streamlit app that leverages two models—**MobileNetV2** and a custom **CIFAR-10 model**—for real-time image classification. Designed for both educational and practical use, it offers seamless navigation and immediate predictions with confidence scores.
 
----
 
 ### **Key Features**  
 
@@ -53,18 +52,15 @@ The **"Implementation of ML Model for Image Classification"** is a powerful and 
 5. Open the app:  
    - The app launches automatically in your default browser. If not, navigate to: `http://localhost:8501`.  
 
----
 
 ### **Contributing**  
 Contributions are welcome! Fork the repository, report issues, or submit pull requests to help improve the app.
 
----
 
 ### **Acknowledgments**  
 - **Streamlit** for the web interface  
 - **TensorFlow** for powering the models  
 
----
 
 ### **Additional Features to Consider**  
 1. **Batch Image Processing:**  
